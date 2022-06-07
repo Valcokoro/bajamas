@@ -1,0 +1,21 @@
+{
+    "products":[
+        {   "name": "Samurai King Restling", 
+            "category": "Pets",
+            "price": 101,
+            "currency": "USD",
+            "id": 1,
+            "image": "https://res.cloudinary.com/dvgruv3el/image/upload/v1654430203/bajamas/pet_h6wker.png",
+           "bestseller": false,
+           "featured": true,
+           "details": { "dimensions": { "width": 1020, "height": 1020 }},
+           "size": 15000,
+           "description":"So how did the classical Latin become so incoherent? According to McClintock, a 15th century typesetter likely scrambled part of Cicero's De Finibus in  order to provide placeholder text to mockup various fonts for a type specimen book.So how did the  classical Latin become so incoherent? According to McClintock, a 15th century typesetter likely scrambled part of Cicero's De Finibus in order to provide placeholder text to mockup various fonts for a type specimen book.So how did the classical Latin become so incoherent? According to McClintock.",
+           "recommendation1": "https://res.cloudinary.com/dvgruv3el/image/upload/v1654583398/Picture1_bgjgvy.png", 
+           "recommendation2": "https://res.cloudinary.com/dvgruv3el/image/upload/v1654583474/Picture2_j6cjtt.png",
+           "recommendation3": "https://res.cloudinary.com/dvgruv3el/image/upload/v1654583514/Picture3_ffc4yf.png"
+        }
+
+        
+    ]
+}

@@ -1,0 +1,233 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@media(min-width: 480px){
+.logo{
+  position: absolute;
+  margin-top: 60px;
+  margin-left: 80px;
+  width: 159px;
+  height: 25.22px; 
+}
+
+.cart{
+  position:absolute;
+  margin-left: 1200px;
+  margin-top: 55px;
+  width:54px;
+  height:37.97px;
+  left: 0%;
+  right: 0%;
+  
+}
+
+.line{
+  position: absolute;
+  margin-left: 80px;
+  margin-top: 120px;
+  width:1171px;
+}
+
+.product-image{
+  position: absolute;
+  width: 1180px;
+  height: 393px;
+  margin-left: 77px;
+  margin-top: 210px;
+}
+
+.product-name{
+  position: absolute;
+  width: 347px;
+  height: 39px;
+  margin-left: 75px;
+  margin-top: 146px;
+  font-family: 'Archivo';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 35px;
+  color: #000000;
+}
+
+.add-product{
+  position: absolute;
+  width: 257px;
+  height: 47px;
+  margin-left: 665px;
+  margin-top: 0px;
+  background: #000000;
+  color:#FFFFFF;
+  font-family: 'Archivo';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 23px;
+  line-height: 25px;
+  letter-spacing: 0.07em;
+}
+
+.photo-tag{
+  position: absolute;
+  width: 271.95px;
+  height: 60px;
+  margin-left: 76px;
+  margin-top: 544px;
+  background: #FFFFFF;
+}
+
+.photo-dday{
+  position: absolute;
+  width: 203.21px;
+  height: 17px;
+  margin-left: 138.61px;
+  margin-top: 563px; 
+  font-family: 'Archivo';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 22px;
+  color: #000000;
+}
+
+.about{
+  position: absolute;
+  width: 538px;
+  height: 31px;
+  margin-left: 78px;
+  margin-top: 645px;
+  font-family: 'Archivo';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 24px;
+  color: #000000;
+}
+
+.recommendation{
+  position: absolute;
+  width: 284px;
+  height: 31px;
+  margin-left: 980px;
+  margin-top: 651px;
+  font-family: 'Archivo';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 24px;
+  text-align: right;
+  color: #000000;
+}
+
+.category{
+  position: absolute;
+  width: 108px;
+  height: 28px;
+  margin-left: 75px;
+  margin-top: 695px;
+  font-family: 'Archivo';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 24px;
+  color: #656565;
+}
+
+.description{
+  position: absolute;
+  width: 690px;
+  height: 299px;
+  left: 72px;
+  top: 730px;
+  font-family: 'Archivo';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  color: #656565;
+}
+
+.recommendation1{
+  position: absolute;
+  width: 117px;
+  height: 147px;
+  left: 865px;
+  top: 706px;
+}
+
+.recommendation2{
+  position: absolute;
+  width: 117px;
+  height: 147px;
+  left: 1005px;
+  top: 706px;
+}
+
+.recommendation3{
+  position: absolute;
+  width: 117px;
+  height: 147px;
+  left: 1145px;
+  top: 706px;
+}
+
+.details{
+  position: absolute;
+  width: 208px;
+  height: 31px;
+  left: 1055px;
+  top: 870px;
+  font-family: 'Archivo';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 24px;
+  text-align: right;
+  color: #000000;
+}
+
+.dimension{
+  position: absolute;
+  width: 590px;
+  height: 27px;
+  left: 675px;
+  top: 910px;
+  font-family: 'Archivo';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 17px;
+  text-align: right;
+  color: #656565;
+}
+
+.size{
+ position: absolute;
+ width: 240px;
+ height: 27px;
+ left: 1026px;
+ top: 936px;
+ font-family: 'Archivo';
+ font-style: normal;
+ font-weight: 400;
+ font-size: 16px;
+ line-height: 17px;
+ text-align: right;
+ color: #656565;
+}
+
+}
+
+@media(max-width: 780px){
+  
+}
