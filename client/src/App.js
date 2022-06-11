@@ -1,12 +1,21 @@
 import React from 'react';
-import FeaturedProduct from './components/FeaturedProduct';
+import { BrowserRouter, Route, Switch} from 'react-router-dom';
+import FirstPage from './components/FirstPage';
+import SecondPage from './components/SecondPage';
+import ThirdPage from './components/ThirdPage';
 
 
 function App() {
   return (
+    <BrowserRouter>
     <div className="App">
-      <FeaturedProduct />
+      <Switch>
+      <Route path='/' exact component={FirstPage} />
+      <Route path='/page2' exact component={SecondPage} />
+      <Route path='/page3' exact component={ThirdPage}  />
+      </Switch>
     </div>
+    </BrowserRouter>
   );
 }
 

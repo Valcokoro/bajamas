@@ -13,9 +13,205 @@
            "description":"So how did the classical Latin become so incoherent? According to McClintock, a 15th century typesetter likely scrambled part of Cicero's De Finibus in  order to provide placeholder text to mockup various fonts for a type specimen book.So how did the  classical Latin become so incoherent? According to McClintock, a 15th century typesetter likely scrambled part of Cicero's De Finibus in order to provide placeholder text to mockup various fonts for a type specimen book.So how did the classical Latin become so incoherent? According to McClintock.",
            "recommendation1": "https://res.cloudinary.com/dvgruv3el/image/upload/v1654583398/Picture1_bgjgvy.png", 
            "recommendation2": "https://res.cloudinary.com/dvgruv3el/image/upload/v1654583474/Picture2_j6cjtt.png",
-           "recommendation3": "https://res.cloudinary.com/dvgruv3el/image/upload/v1654583514/Picture3_ffc4yf.png"
-        }
+           "recommendation3": "https://res.cloudinary.com/dvgruv3el/image/upload/v1654583514/Picture3_ffc4yf.png",
 
+           "name1": " Red Bench",
+           "category1": "People",
+           "price1": 3.89,
+           "currency1": "USD",
+           "id1": 2,
+           "image1": "https://res.cloudinary.com/dvgruv3el/image/upload/v1654720111/People_mr1vuk.png",
+           "bestseller1": true,
+           "featured1": false,
+
+           "name2": " Boat Cruise",
+           "category2": "Cities",
+           "price2": 50,
+           "currency2": "USD",
+           "id2": 3,
+           "image2": "https://res.cloudinary.com/dvgruv3el/image/upload/v1654767032/vacation_ktjezx.jpg",
+           "bestseller2": false,
+           "featured2": false,
+
+           "name3": " Egg Ballon",
+           "category3": "Food",
+           "price3": 93.89,
+           "currency3": "USD",
+           "id3": 4,
+           "image3": "https://res.cloudinary.com/dvgruv3el/image/upload/v1654776296/Egg_cpcccg.png",
+           "bestseller3": false,
+           "featured3": false,
+
+           "name4": "Man",
+           "category4": "People",
+           "price4": 100,
+           "currency4": "USD",
+           "id4": 5,
+           "image4": "https://res.cloudinary.com/dvgruv3el/image/upload/v1654779146/Man_crh96j.png",
+           "bestseller4": false,
+           "featured4": false,
+
+           "name5": "Juice",
+           "category5": "Food",
+           "price5": 10,
+           "currency5": "USD",
+           "id5": 6,
+           "image5": "https://res.cloudinary.com/dvgruv3el/image/upload/v1654784221/juice_eeqwbl.jpg",
+           "bestseller5": false,
+           "featured5": false,
+
+           "name6": "Family",
+           "category6": "People",
+           "price7": 55,
+           "currency7": "USD",
+           "id7": 8,
+           "image6": "https://res.cloudinary.com/dvgruv3el/image/upload/v1654788050/family_xi8cao.jpg",
+           "bestseller6": false,
+           "featured6": false,
+
+           "name7": "Office",
+           "category7": "Landmark",
+           "price6": 60,
+           "currency6": "USD",
+           "id6": 7,
+           "image7": "https://res.cloudinary.com/dvgruv3el/image/upload/v1654848112/office_eyzfjw.jpg",
+           "bestseller7": true,
+           "featured7": false,
+
+           "name8": "Room",
+           "category8": "Landmark",
+           "price8": 70,
+           "currency8": "USD",
+           "id8": 8,
+           "image8": "https://res.cloudinary.com/dvgruv3el/image/upload/v1654848752/Room_hrvamf.jpg",
+           "bestseller8": false,
+           "featured8": false,
+
+           "name9": "Trees",
+           "category9": "Nature",
+           "price9": 45,
+           "currency9": "USD",
+           "id9": 9,
+           "image9": "https://res.cloudinary.com/dvgruv3el/image/upload/v1654849434/Trees_h0lst2.jpg",
+           "bestseller9": false,
+           "featured9": false,
+
+           "name10": "Shanghai",
+           "category10": "Cities",
+           "price10": 95,
+           "currency10": "USD",
+           "id10": 10,
+           "image10": "https://res.cloudinary.com/dvgruv3el/image/upload/v1654849971/Shangai_styb8s.jpg",
+           "bestseller10": false,
+           "featured10": false,
+
+           "name11": "Mansion",
+           "category11": "Landmark",
+           "price11": 110,
+           "currency11": "USD",
+           "id11": 11,
+           "image11": "https://res.cloudinary.com/dvgruv3el/image/upload/v1654875305/Mansion_yuqyib.jpg",
+           "bestseller11": false,
+           "featured11": false,
+
+           "name12": "Galaxy Art",
+           "category12": "Premium",
+           "price12": 130,
+           "currency12": "USD",
+           "id12": 12,
+           "image12": "https://res.cloudinary.com/dvgruv3el/image/upload/v1654875820/Galaxy_Art_i39qdh.jpg",
+           "bestseller12": false,
+           "featured12": false,
+
+
+           "name13": "Thunder",
+           "category13": "Nature",
+           "price13": 100,
+           "currency13": "USD",
+           "id13": 13,
+           "image13": "https://res.cloudinary.com/dvgruv3el/image/upload/v1654876611/Thunder_Strike_uqvcul.jpg",
+           "bestseller13": true,
+           "featured13": false,
+
+
+           "name14": "Coding",
+           "category14": "Premium",
+           "price14": 120,
+           "currency14": "USD",
+           "id14": 14,
+           "image14": "https://res.cloudinary.com/dvgruv3el/image/upload/v1654877084/Coding_pbqm9o.jpg",
+           "bestseller14": false,
+           "featured14": false,
+
+
+           "name15": "New York",
+           "category15": "Cities",
+           "price15": 150,
+           "currency15": "USD",
+           "id15": 15,
+           "image15": "https://res.cloudinary.com/dvgruv3el/image/upload/v1654877424/New_York_lgi7vn.jpg",
+           "bestseller15": false,
+           "featured15": false,
+
+
+           "name16": "Lake",
+           "category16": "Nature",
+           "price16": 170,
+           "currency16": "USD",
+           "id16": 16,
+           "image16": "https://res.cloudinary.com/dvgruv3el/image/upload/v1654877884/Blue_Lake_l5q9v4.jpg",
+           "bestseller16": false,
+           "featured16": false,
+
+           "name17": "Mountain",
+           "category17": "Landmark",
+           "price17": 120,
+           "currency17": "USD",
+           "id17": 17,
+           "image17": "https://res.cloudinary.com/dvgruv3el/image/upload/v1654878332/Mountain_g181oi.jpg",
+           "bestseller17": false,
+           "featured17": false,
+
+           "name18": "Girl",
+           "category18": "People",
+           "price18": 90,
+           "currency18": "USD",
+           "id18": 18,
+           "image18": "https://res.cloudinary.com/dvgruv3el/image/upload/v1654878680/Girl_qkh4ej.jpg",
+           "bestseller18": false,
+           "featured18": false,
+
+           "name19": "Desert",
+           "category19": "Landmark",
+           "price19": 70,
+           "currency19": "USD",
+           "id19": 19,
+           "image19": "https://res.cloudinary.com/dvgruv3el/image/upload/v1654879313/Desert_ooqmyf.jpg",
+           "bestseller19": false,
+           "featured19": false,
+
+           "name20": "Sea",
+           "category20": "Nature",
+           "price20": 90,
+           "currency20": "USD",
+           "id20": 20,
+           "image20": "https://res.cloudinary.com/dvgruv3el/image/upload/v1654919227/Sea_pdhgrl.jpg",
+           "bestseller20": false,
+           "featured20": false
+
+
+
+
+
+
+
+
+        }
+        
+        
         
     ]
+
+    
+    
 }
