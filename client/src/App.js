@@ -3,6 +3,7 @@ import { BrowserRouter, Route, Switch} from 'react-router-dom';
 import FirstPage from './components/FirstPage';
 import SecondPage from './components/SecondPage';
 import ThirdPage from './components/ThirdPage';
+import Navbar from './components/Navbar/Navbar';
 
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
       <Route path='/page3' exact component={ThirdPage}  />
       </Switch>
     </div>
+    <Navbar />
     </BrowserRouter>
   );
 }
